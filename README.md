@@ -46,6 +46,9 @@ Add to ~/.tmux.conf
 ```
 set -g mouse
 ```
+
+*** WARNING: enabling mouse support causes weird stuff  to happen with copying and pasting if you are use to a terminal with right click paste. ***
+
 ## Copy and paste in a split screen (Ctrl+b + %)
 
 https://news.ycombinator.com/item?id=7758368
