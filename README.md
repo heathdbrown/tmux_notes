@@ -28,6 +28,14 @@ Notes on how tmux works and usage
 2. Install `Ctrl+b I`
 3. Running Saving complete history of pane  `Ctrl+b alt + shift + p`
 
+## tmux-sidebar
+> https://github.com/tmux-plugins/tmux-sidebar
+
+1. Add to ~/.tmux.conf `set -g @plugin 'tmux-plugins/tmux-sidebar`
+2. Install `Ctrl+b I`
+3. Use Ctrl+b Tab to activate/deativate
+4. Use Ctrl+b Backspace to move cursor
+
 ## synchronize 'panes'
 
 1. `Ctrl+b :` (enter command mode
