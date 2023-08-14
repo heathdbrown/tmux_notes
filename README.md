@@ -26,6 +26,7 @@ Notes on how tmux works and usage
 
 1. Add to ~/.tmux.conf `set -g @plugin 'tmux-plugins/tmux-logging'`
 2. Install `Ctrl+b I`
+3. Running Saving complete history of pane  `Ctrl+b alt + shift + p`
 
 ## synchronize 'panes'
 
